@@ -33,10 +33,10 @@ The Anime Voting System is a web application built using the Django framework. I
 <img src="screenshots/chart.png" alt="Chart" width="500"/>
 
 ### Sample Rankings
-<img src="screenshots/rankings.png" alt="Rankings" width="200"/>
+<img src="screenshots/rankings.png" alt="Rankings" width="400"/>
 
 ### Season Statistics
-<img src="screenshots/season stats.png" alt="Season" width="200"/>
+<img src="screenshots/season stats.png" alt="Season" width="400"/>
 
 ## Usage
 
