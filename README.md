@@ -7,6 +7,7 @@ The Anime Voting System is a web application built using the Django framework. I
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
@@ -19,6 +20,23 @@ The Anime Voting System is a web application built using the Django framework. I
 - **Admin Panel**: Detailed statistics and charts for reviewing voting stats.
 - **Voting Stats**: Breakdown by gender, age, and region.
 - **Anime Rankings**: Based on categories and seasons.
+
+## Screenshots
+
+### Voting Page
+<img src="screenshots/main page.png" alt="User Voting Page" width="500"/>
+
+### Bar Graph
+<img src="screenshots/bar graph.png" alt="Statistics" width="500"/>
+
+### Chart
+<img src="screenshots/chart.png" alt="Chart" width="500"/>
+
+### Sample Rankings
+<img src="screenshots/rankings.png" alt="Rankings" width="200"/>
+
+### Season Statistics
+<img src="screenshots/season stats.png" alt="Season" width="200"/>
 
 ## Usage
 
