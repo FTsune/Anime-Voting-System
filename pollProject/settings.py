@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-k&29b7(+z@9mb60_1*87suni+0!9j&86#gkkik8wb3t6b@ohol
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['']
+ALLOWED_HOSTS = ['ftsunes-projects/anime-voting-system']
 
 
 # Application definition
